@@ -4,7 +4,7 @@ Repositorio con la implementación en Python del Trabajo de Fin de Grado sobre o
 
 ## Contenido
 
-- `TFG_Collazo Fontes, Santiago.ipynb`: notebook principal con el desarrollo completo de los modelos cuantitativos, simulaciones, optimización y análisis de resultados.
+- `TFG Collazo Fontes, Santiago.ipynb`: notebook principal con el desarrollo completo de los modelos cuantitativos, simulaciones, optimización y análisis de resultados.
 - `Ibex.xlsx`: archivo Excel con los datos históricos del IBEX-35 utilizados como entrada para los modelos.
 
 ## Requisitos
